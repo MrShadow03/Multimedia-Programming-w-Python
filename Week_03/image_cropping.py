@@ -15,6 +15,8 @@
 
 # Problem: Convert a rectangular image into a circular cropped version.
 
+
+
 import cv2
 import numpy
 
